@@ -14,9 +14,9 @@ Follow these steps to create a new React project:
 
 1. Open your terminal or command prompt.
 
-2. Create a new folder `cmd mkdir new-folder`
+2. Create a new folder ` mkdir new-folder`
 
-3. `cmd cd new-folder` redirect to the folder
+3. ` cd new-folder` redirect to the folder
 
 4. you can open the visual studio using `code .`
 
